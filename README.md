@@ -4,8 +4,8 @@
 ### AIM: 
 To implement all the flipflops using verilog and validating their functionality using their functional tables
 
+## EQUIPMENTS REQUIRED
  HARDWARE  – PC, Cyclone II , USB flasher
- 
  
  SOFTWARE  -Quartus prime
 
