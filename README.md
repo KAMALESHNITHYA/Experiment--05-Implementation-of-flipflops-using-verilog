@@ -1,9 +1,14 @@
 ## NAME : KAMALESH R
 ## REGISTER NUMBER : 212223230094
 ## Experiment--05-Implementation-of-flipflops-using-verilog
-### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
+### AIM: 
+To implement all the flipflops using verilog and validating their functionality using their functional tables
+
  HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
+ 
+ 
  SOFTWARE REQUIRED:   Quartus prime
+
 ### THEORY 
 SR Flip-Flop
 SR flip-flop operates with only positive clock transitions or negative clock transitions. Whereas, SR latch operates with enable signal. The circuit diagram of SR flip-flop is shown in the following figure.
